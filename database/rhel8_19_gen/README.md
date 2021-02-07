@@ -14,12 +14,6 @@ Enjoy
 * [Vagrant](https://www.vagrantup.com/downloads.html)
 * [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 * [Oracle Database](https://www.oracle.com/technetwork/database/enterprise-edition/downloads/oracle19c-linux-5462157.html)
-## Optional Software (uncomment related section on root_setup.sh to use)
-* [Oracle REST Data Services (ORDS)](https://www.oracle.com/technetwork/developer-tools/rest-data-services/downloads/index.html)
-* [Oracle SQLcl](https://www.oracle.com/technetwork/developer-tools/sqlcl/downloads/index.html)
-* [Oracle Application Express (APEX)](https://www.oracle.com/technetwork/developer-tools/apex/downloads/index.html)
-* [OpenJDK 12](http://jdk.java.net/12/)
-* [Tomcat 9](https://tomcat.apache.org/download-90.cgi)
 
 Place the software in the "software" directory before calling the `vagrant up` command.
 
