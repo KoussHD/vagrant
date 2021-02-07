@@ -36,10 +36,8 @@ $ tree
 |   +--- oracle_service_setup.sh
 |   +--- oracle_software_installation.sh
 |   +--- oracle_user_environment_setup.sh
-|   +--- ords_software_installation.sh
 |   +--- prepare_u01_u02_disks.sh
 |   +--- root_setup.sh
-|   +--- server.xml
 |   +--- setup.sh
 +--- software
 |   +--- LINUX.X64_193000_db_home.zip
